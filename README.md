@@ -6,6 +6,7 @@
    java Server.java <Port #>
 
 2. Go to Client folder and use the following commands:
+
    javac *.java
    java Client.java
    
